@@ -1,0 +1,11 @@
+{
+  "name": "Sakubot",
+  "description": ".",
+  "repository": "https://github.com/Briampastor/Sakubot",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
