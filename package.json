@@ -17,7 +17,7 @@
   "author": "Italu",
   "repository": {
     "type": "git",
-    "url":git+https://github.com/Briampastor/Sakubot.git"
+    "url":"git+https://github.com/Briampastor/Sakubot.git"
   },
   "bugs": {
     "url":"https://github.com/Briampastor/Sakubot/issues"
